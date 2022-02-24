@@ -1,4 +1,4 @@
-### <strong>Hi, Hola</strong> 👋 <Im Welton Vaz de Souza> 👾
+### <strong>Hi, Hola 👋 <Im Welton Vaz de Souza> 👾</strong> 
 
 I'm a student of SUPERIOR TECHNOLOGY IN SYSTEM ANALYSIS AND DEVELOPMENT at UNICESUMAR, and programmer analyst at opensource Brasil, and I've been working in tech since
 2018. I'm from Brazil, currently live Belo Horizonte, I like to be called &lt;Js&gt;
