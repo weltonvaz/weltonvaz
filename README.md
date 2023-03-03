@@ -1,7 +1,9 @@
-### <strong>Hi, Hola 👋 Im Welton Vaz de Souza 👾</strong> 
+Greetings, mortals! 👋
 
-I'm a student of SUPERIOR TECHNOLOGY IN SYSTEM ANALYSIS AND DEVELOPMENT at UNICESUMAR, and programmer analyst at opensource Brasil, and I've been working in tech since
-2018. I'm from Brazil, currently live Belo Horizonte, I like to be called &lt;Js&gt;
+Behold, the repository of the great and mighty Welton Vaz de Souza, also known as <Js>, the almighty programmer analyst and tech wizard from Brazil! 🧙‍♂️
 
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/weltonvaz)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/welton-vaz-de-souza-bb9502133/)
+As a student of SUPERIOR TECHNOLOGY IN SYSTEM ANALYSIS AND DEVELOPMENT at UNICESUMAR, I have dedicated my life to mastering the arcane arts of programming and software development. Since 2018, I have been harnessing the powers of open source technology to create wondrous applications and tools that will revolutionize the world!
+
+But that's not all! In addition to my incredible skills in programming, I am also a master of creating prompts for the one and only CHATCGTP. Yes, that's right, I have the power to make ChatGPT even more awesome than it already is! 🤖
+
+So come, mortals, and explore the secrets of my repository. Here, you will find a treasure trove of code, ideas, and innovations that will make your jaw drop and your mind expand. Dare to dream big, and together, we shall conquer the world of technology! 💻🌎
